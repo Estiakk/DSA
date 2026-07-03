@@ -54,5 +54,6 @@ int main(){
     display(stack);
     pop(stack);
     pop(stack);
+    free(stack);
     return 0;
 }
