@@ -29,13 +29,13 @@ Each program is written with simplicity and readability in mind, making it suita
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/Estiakk/DSA.git
 ```
 
 ### Navigate to the Project Directory
 
 ```bash
-cd your-repository-name
+cd DSA
 ```
 
 ### Compile a Program
